@@ -6,3 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+llm = "0.1"
+notify = "6.1"
+config = "0.13"
+directories = "5.0.1"
